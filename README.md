@@ -52,8 +52,8 @@ A **Retrieval-Augmented Generation (RAG) Discord chatbot** that allows users to 
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/discord-rag-bot.git
-cd discord-rag-bot
+[git clone https://github.com/SrishtiTurki/Discord-Rag-Chatbot.git
+cd Discord-Rag-Chatbot
 ```
 
 2. Install dependencies:
@@ -82,7 +82,7 @@ GEMINI_API_KEY = "<your-gemini-api-key>"
 1. **Start the bot:**
 
 ```bash
-python discord_rag_chatbot.py
+python Discord-Rag-Chatbot.py
 ```
 
 2. **Upload a PDF** (via Discord attachment or in Colab before starting bot):
@@ -134,9 +134,9 @@ python discord_rag_chatbot.py
 ## 📁 Project Structure
 
 ```
-discord-rag-bot/
+Discord-Rag-Chatbot/
 │
-├─ discord_rag_chatbot.py              # Main bot code
+├─ Discord-Rag-Chatbot.py              # Main bot code
 ├─ requirements.txt       # Python dependencies
 ├─ README.md
 └─ examples/
@@ -151,7 +151,3 @@ discord-rag-bot/
 * Ensure **Google Gemini API** key is valid and has access to the chosen model.
 * Works best with **PDFs containing text**, not scanned images.
 
----
-
-
-Do you want me to do that version too?
