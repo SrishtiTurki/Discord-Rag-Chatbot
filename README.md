@@ -145,6 +145,14 @@ Discord-Rag-Chatbot/
 
 ---
 
+
+## Images
+
+<img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/32409ffb-8359-4b6b-b494-de5f18ec7446" />
+<img width="1117" height="690" alt="Screenshot 2025-10-05 225556" src="https://github.com/user-attachments/assets/c2eaef93-71c1-4768-a1f8-6cf00ff2c91c" />
+<img width="1119" height="754" alt="image" src="https://github.com/user-attachments/assets/221944d3-0a5a-4e7e-abca-1553ceed6dfc" />
+
+
 ## ⚠️ Notes
 
 * PDF must be uploaded as an **attachment in Discord** or via **Colab file upload**.
